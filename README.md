@@ -1,6 +1,4 @@
 # adguardhome-sync
-Keeps two AdGuard Home servers in sync for DNS and filter settings — perfect for home lab or redundant DNS setups.
-# adguardhome-sync
 
 Docker Compose configuration for syncing settings between two AdGuard Home instances using [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync).
 
